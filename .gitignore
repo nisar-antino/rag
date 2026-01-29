@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+
+# Environment Variables (IMPORTANT: Protects your API Key)
+.env
+
+# Database (Rebuild this locally)
+chroma_db/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
